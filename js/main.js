@@ -1,5 +1,5 @@
 function generate() {
-  const url = 'http://18.157.179.252/generate'
+  const url = 'https://thisapartmentdoesnotexist.ml/generate'
   document.querySelector('#spinner').style.visibility = 'visible'
   document.querySelector('#blur-wrapper').classList.add('image-blur-wrapper')
   try {
